@@ -1,16 +1,9 @@
 # day23_news_feed
 
-A new Flutter project.
+Day 23 Of 30 Days Of Android UI Building Challenge
 
-## Getting Started
+<img src="https://github.com/justatulcodes/day23_news_feed/assets/106759388/c54f5f66-3ad2-4af7-9a4d-ac2ad972a39c" alt="Image" width="500" height="500">
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/justatulcodes/day23_news_feed/assets/106759388/7e16169b-b5aa-4d1e-a496-ab6dd726aa79" alt="Image" width="500" height="500">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Click To Watch Video](https://www.youtube.com/watch?v=DOhxOVX8izg&ab_channel=Expeknow)
